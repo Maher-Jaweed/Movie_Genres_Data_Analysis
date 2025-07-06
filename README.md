@@ -34,15 +34,20 @@ Which genres have the highest number of movies with a vote average ≥ 8?
 ![image](https://github.com/user-attachments/assets/2f304705-0597-450d-8787-f422353c3cbd)
 
 
+![image](https://github.com/user-attachments/assets/a4482a76-d11c-4e09-8af5-88a432cbcd29)
+
+
 ![image](https://github.com/user-attachments/assets/d17a9a01-6b42-4444-977e-9e3e73e4a65f)
 
 
+
 ### ✨ Insights:
+- Higher budgets correlate with greater popularity.
+  
 - Strong positive relationship between budget and profit.
 
-- Higher budgets correlate with greater popularity.
 
-- Certain genres consistently yield higher profits over time.
+- Certain genres consistently yield higher profits.
 
 ### ✅ Conclusions:
 
